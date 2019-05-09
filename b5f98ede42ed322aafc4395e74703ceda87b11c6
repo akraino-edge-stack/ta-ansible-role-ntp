@@ -1,0 +1,7 @@
+Code-Review+2: Krisztián Lengyel <krisztian.lengyel@nokia.com>
+Verified+1: Krisztián Lengyel <krisztian.lengyel@nokia.com>
+Submitted-by: Krisztián Lengyel <krisztian.lengyel@nokia.com>
+Submitted-at: Thu, 09 May 2019 13:05:52 +0000
+Reviewed-on: https://gerrit.akraino.org/r/657
+Project: ta/ansible-role-ntp
+Branch: refs/heads/master
